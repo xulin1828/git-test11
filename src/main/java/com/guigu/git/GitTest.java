@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master 444");
         System.out.println("hot-fix444");
         System.out.println("push-fix444");
+        System.out.println("pull-fix444");
     }
 }
